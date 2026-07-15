@@ -29,4 +29,4 @@ Focus Areas:
 
 💼 **Work Experience**
 
-Project Manager in multi projects of Soil Investigation Works in Singapore with budget upto S$ 2,000,000. Lead the engineering team upto 40 engineers/technicians/workers
+Project Manager in multi projects of Soil Investigation Works in Singapore with budget upto S$ 2,000,000. Lead the project team daily which consist of upto 40 engineers/technicians/workers
