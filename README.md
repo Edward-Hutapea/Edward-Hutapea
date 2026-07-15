@@ -5,9 +5,9 @@
 
 🧠 **Core Skills**
 
-Languages & Tools: Python, MySQL, Machine Learning, Tableau, GitHub
+*Languages & Tools:* Python, MySQL, Machine Learning, Tableau, GitHub
 
-Focus Areas:
+*Focus Areas:*
 - Data Wrangling & EDA
 - Machine Learning & Forecasting
 - Model Evaluation & Interpretation
