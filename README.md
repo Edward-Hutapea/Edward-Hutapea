@@ -1,32 +1,27 @@
 👋 **About Me**
-- Graduate of Civil Engineering from Bandung Institute of Technology, Indonesia and Nanyang Technological University, Singapore, now pursuing a career in Data Science.
-- Completed Data Science Bootcamp & Machine Learning (Purwadhika, 2025).
-- Passionate about using machine learning to solve business problems.
+- Project Manager with 12 years of experience directing cross-functional teams of up to 70 personnel and managing multiple external sub-contractors/vendors.
+- Proven track record of delivering high-profile soil-investigation projects in Singapore valued at up to S$ 3 Million.
+- Leader skilled in executing end-to-end non-profit events in Singapore with budgets up to S$ 15,000 and successfully directing multidisciplinary teams of up to 50 members.
+- Passionate data enthusiast dedicated to transforming complex datasets into actionable business insights.
 
-🧠 **Core Skills**
+🎓 **Education**
+- Purwadhika Job Connector Bootcamp Data Science and Machine Learning (2024-2025).
+- MSc in Civil Engineering from Nanyang Technological University, Singapore (2008-2009).
+- B. Eng (Cumlaude Predicate) in Civil Engineering from Bandung Institute of Technology, Indonesia (2002-2006)
 
-*Languages & Tools:* Python, MySQL, Machine Learning, Tableau, GitHub
-
-*Focus Areas:*
-- Data Wrangling & EDA
-- Machine Learning & Forecasting
-- Model Evaluation & Interpretation
-- Data Visualization & Dashboarding
-
-🚀 **Projects**
+🚀 **Portfolio related to Data Analyst and Data Scientist**
 - Supermarket Customers Data Dictionary
 - Daegu Apartment
 - Bank Marketing Campaign – Opening Deposit
 
-🎓 **Education**
-- B. Eng (Cumlaude) in Civil Engineering from Bandung Institute of Technology, Indonesia (2006)
-- MSc in Civil Engineering from Nanyang Technological University, Singapore (2010).
-- Purwadhika Bootcamp Data Science Bootcamp & Machine Learning (2025).
-
-🌍 **Languages**
-- Indonesian – Native
-- English
+🧠 **Core Skills**
+*Languages & Tools:* Python, Tableau, MySQL, Machine Learning
 
 💼 **Work Experience**
+Kiso-Jiban Consultants Co., Ltd., Singapore Branch (2009-Present)
+•	Project Manager	(2014-Present) - Directs teams of up to 70 personnel and multiple sub-contractors, delivering high-profile soil-investigation projects valued up to S$3 Million. The outcome of projects is critical geotechnical data.
+•	Lead Investigator	(2025-2026) - Appointed directly by a Singapore authority to conduct an independent soil investigation project for a road sinkhole accident. The outcome of projects is reliable geotechnical data.      
+•	Geotechnical Engineer	(2009-2014) - Assisted project managers in maintaining geotechnical data quality by leading a team of up to 12 engineers and monitoring actual daily workflow progress/operations. 
 
-Project Manager in multi projects of Soil Investigation Works in Singapore with budget upto S$ 2,000,000. Lead the project team daily which consist of upto 40 engineers/technicians/workers
+Tripatra Engineers and Constructors, Indonesia, Civil Engineer (2006-2008)
+•	Designed the building and foundations based on the underground soil data and structure material specification
