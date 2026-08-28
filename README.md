@@ -27,28 +27,27 @@
 - Designed the building and foundations based on the underground soil data and structure material specification
 
 🚀 **Leadership Experience and Activities** - *Organized the following community events for the Indonesian diaspora in strategic partnership with the Indonesia Embassy in Singapore:*
-
-Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta), Moderator	19 Oct 2015
+1. Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta), 2015 - *Moderator*
 •	Successfully hosted a fruitful dialogue for over 1,000 attendees
 •	Livened up the atmosphere by asking thoughtful and unique questions reflecting the diaspora's aspirations.
 
-Celebration of Indonesia 70th Independence Day, Chairman of Organizing Committee	19 Sep 2015
+2. Celebration of Indonesia 70th Independence Day, Chairman of Organizing Committee	19 Sep 2015
 •	Directed a 45-member committee to host a multi-format production, featuring musical drama, photo gallery exhibition, and inspiring talk with prominent diasporas, including a CNN Heroes awardee, for 200+ attendees.
 •	Managed end-to-end planning and logistics; directing concept development, program design and technical operations.
 •	Executed integrated multi-channel campaigns across digital and traditional media to maximize audience attendance.
 
-Christmas Indonesia Diaspora in Singapore, Chairman of Organizing Committee	2010, 2013, 2014
+3. Christmas Indonesia Diaspora in Singapore, Chairman of Organizing Committee	2010, 2013, 2014
 •	Headed a 50-member committee in organizing a S$15,000 Christmas celebration for 400+ attendees.
 •	Oversaw full-cycle operations; directing pre-event preparation, performer curation, logistics and vendor management.
 •	Led church outreach initiatives to achieve full-capacity event attendance.
 •	Secured corporate sponsorships and donations from 20+ church partners; managed operational budget allocation.
 •	Hosted a charitable fundraising event and oversaw the fund distribution process across multiple beneficiary partners.
 
-Seminar "Indonesia's Steps Toward a Developed Country 2025”, Chairman of Organizing Committee	7 Aug 2012
+4. Seminar "Indonesia's Steps Toward a Developed Country 2025”, Chairman of Organizing Committee	7 Aug 2012
 •	Chaired a high-profile diplomatic forum featuring Mr. Hatta Rajasa (Coordinating Minister for Economic Affairs).
 •	Led a 10-member team in direct collaboration with Minister’s office to design event agenda for 300+ attendees.
 
-Movie Screening "Laskar Pelangi (the Rainbow Troops)”, Chairman of Organizing Committee	19 Feb 2012
+5. Movie Screening "Laskar Pelangi (the Rainbow Troops)”, Chairman of Organizing Committee	19 Feb 2012
 •	Hosted a film screening featuring the award-winning Indonesian film "Laskar Pelangi" (The Rainbow Troops), followed by an exclusive talk with Indonesia bestselling author Andrea Hirata for 200+ attendees.
 •	Led a 7-person team in partnership with corporate sponsors to execute the event from concept to delivery.
 
