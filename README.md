@@ -27,10 +27,10 @@
 - Designed the building and foundations based on the underground soil data and structure material specification
 
 🚀 **Leadership Experience and Activities** - *Organized the following community events for the Indonesian diaspora in strategic partnership with the Indonesia Embassy in Singapore:*
-1. Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta) (2015) – **Moderator**
+1. *Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta)* (2015) – **Moderator**
 - Successfully hosted a fruitful dialogue for over 1,000 attendees
 
-2. Celebration of Indonesia 70th Independence Day (2015) – **Chairman of Organizing Committee**	19 Sep 2015
+2. *Celebration of Indonesia 70th Independence Day* (2015) – **Chairman of Organizing Committee**	19 Sep 2015
 - Directed a 45-member committee to host a multi-format production, featuring musical drama, photo gallery exhibition, and inspiring talk with prominent diasporas, including a CNN Heroes awardee, for 200+ attendees.
 
 3. Christmas Indonesia Diaspora in Singapore (2010, 2013, 2014) **Chairman of Organizing Committee**	
