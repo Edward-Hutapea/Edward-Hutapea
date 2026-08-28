@@ -28,7 +28,7 @@
 
 🚀 **Leadership Experience and Activities** 
 
-*Organized the following community events for the Indonesian diaspora in strategic partnership with the Indonesia Embassy in Singapore:*
+**Organized the following community events for the Indonesian diaspora in strategic partnership with the Indonesia Embassy in Singapore:**
 1. *Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta)* (2015) – **Moderator**
 - Successfully hosted a fruitful dialogue for over 1,000 attendees
 
