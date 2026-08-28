@@ -18,10 +18,10 @@
 *Languages & Tools:* Python, Tableau, MySQL, Machine Learning
 
 💼 **Work Experience**
-Kiso-Jiban Consultants Co., Ltd., Singapore Branch (2009-Present)
+1. Kiso-Jiban Consultants Co., Ltd., Singapore Branch (2009-Present)
 •	Project Manager	(2014-Present) - Directs teams of up to 70 personnel and multiple sub-contractors, delivering high-profile soil-investigation projects valued up to S$3 Million. The outcome of projects is critical geotechnical data.
 •	Lead Investigator	(2025-2026) - Appointed directly by a Singapore authority to conduct an independent soil investigation project for a road sinkhole accident. The outcome of projects is reliable geotechnical data.      
 •	Geotechnical Engineer	(2009-2014) - Assisted project managers in maintaining geotechnical data quality by leading a team of up to 12 engineers and monitoring actual daily workflow progress/operations. 
 
-Tripatra Engineers and Constructors, Indonesia, Civil Engineer (2006-2008)
+2. Tripatra Engineers and Constructors, Indonesia, Civil Engineer (2006-2008)
 •	Designed the building and foundations based on the underground soil data and structure material specification
