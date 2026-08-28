@@ -24,4 +24,4 @@
 - Geotechnical Engineer	(2009-2014) - Assisted project managers in maintaining geotechnical data quality by leading a team of up to 12 engineers and monitoring actual daily workflow progress/operations. 
 
 2. *Tripatra Engineers and Constructors, Indonesia, Civil Engineer (2006-2008)*
-•	Designed the building and foundations based on the underground soil data and structure material specification
+- Designed the building and foundations based on the underground soil data and structure material specification
