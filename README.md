@@ -26,7 +26,9 @@
 2. *Tripatra Engineers and Constructors, Indonesia* – **Civil Engineer (2006-2008)**
 - Designed the building and foundations based on the underground soil data and structure material specification
 
-🚀 **Leadership Experience and Activities** - *Organized the following community events for the Indonesian diaspora in strategic partnership with the Indonesia Embassy in Singapore:*
+🚀 **Leadership Experience and Activities** 
+
+*Organized the following community events for the Indonesian diaspora in strategic partnership with the Indonesia Embassy in Singapore:*
 1. *Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta)* (2015) – **Moderator**
 - Successfully hosted a fruitful dialogue for over 1,000 attendees
 
