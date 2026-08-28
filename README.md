@@ -30,14 +30,14 @@
 1. *Dialogue with Mr. Basuki Tjahaja Purnama (Governor of Jakarta)* (2015) – **Moderator**
 - Successfully hosted a fruitful dialogue for over 1,000 attendees
 
-2. *Celebration of Indonesia 70th Independence Day* (2015) – **Chairman of Organizing Committee**	19 Sep 2015
+2. *Celebration of Indonesia 70th Independence Day* (2015) – **Chairman of Organizing Committee**
 - Directed a 45-member committee to host a multi-format production, featuring musical drama, photo gallery exhibition, and inspiring talk with prominent diasporas, including a CNN Heroes awardee, for 200+ attendees.
 
-3. Christmas Indonesia Diaspora in Singapore (2010, 2013, 2014) **Chairman of Organizing Committee**	
+3. *Christmas Indonesia Diaspora in Singapore* (2010, 2013, 2014) **Chairman of Organizing Committee**	
 - Headed a 50-member committee in organizing a S$15,000 Christmas celebration for 400+ attendees.
 
-4. Seminar "Indonesia's Steps Toward a Developed Country" (2015) – **Chairman of Organizing Committee**	7 Aug 2012
+4. *Seminar "Indonesia's Steps Toward a Developed Country"* (2015) – **Chairman of Organizing Committee**
 - Led a 10-member team and chaired a high-profile diplomatic forum featuring Mr. Hatta Rajasa (Coordinating Minister for Economic Affairs) for 300+ attendees.
 
-5. Movie Screening "Laskar Pelangi (the Rainbow Troops)” (2012) – **Chairman of Organizing Committee**
+5. *Movie Screening "Laskar Pelangi (the Rainbow Troops)”* (2012) – **Chairman of Organizing Committee**
 - Led a 7-person team and hosted a film screening featuring the award-winning Indonesian film "Laskar Pelangi" (The Rainbow Troops), followed by an exclusive talk with Indonesia bestselling author Andrea Hirata for 200+ attendees.
