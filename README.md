@@ -15,7 +15,7 @@
 - Bank Marketing Campaign – Opening Deposit
 
 🧠 **Core Skills**
-*Languages & Tools:* Python, Tableau, MySQL, Machine Learning
+- Languages & Tools: Python, Tableau, MySQL, Machine Learning
 
 💼 **Work Experience**
 1. *Kiso-Jiban Consultants Co., Ltd., Singapore Branch (2009-Present)*
