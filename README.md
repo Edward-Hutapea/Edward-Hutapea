@@ -1,8 +1,7 @@
 👋 **About Me**
-- Project Manager with 12 years of experience directing cross-functional teams of up to 70 personnel and managing multiple external sub-contractors/vendors.
-- Proven track record of delivering high-profile soil-investigation projects in Singapore valued at up to S$ 3 Million.
-- Leader skilled in executing end-to-end non-profit events in Singapore with budgets up to S$ 15,000 and successfully directing multidisciplinary teams of up to 50 members.
-- Passionate data enthusiast dedicated to transforming complex datasets into actionable business insights.
+- Project Execution: Project Manager in Singapore with 12 years of experience directing 70-person cross-functional teams and external sub-contractors. Delivered high-profile soil investigation projects valued up to S$ 3 Million through data-driven project management.
+- Community Leadership: Executed end-to-end non-profit events (budgets up to S$15k) in Singapore for the Indonesian diaspora in partnership with the Indonesian Embassy, managing event committees and leading up to 50 multidisciplinary volunteers.
+- Data Analytics: Passionate about transforming complex datasets into strategic insights and actionable recommendations that drive measurable business impact.
 
 🎓 **Education**
 - Purwadhika Job Connector Bootcamp Data Science and Machine Learning (2024-2025).
