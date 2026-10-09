@@ -9,9 +9,9 @@
 - B. Eng (Cumlaude Predicate) in Civil Engineering from Bandung Institute of Technology, Indonesia (2002-2006)
 
 🚀 **Portfolio related to Data Analyst and Data Scientist**
-- Supermarket Customers Data Dictionary
-- Daegu Apartment
-- Bank Marketing Campaign – Opening Deposit
+- Bank Marketing Campaign – Opening Deposit https://github.com/Edward-Hutapea/Bank-Marketing-Campaign-Opening-Deposit
+- Daegu Apartment https://github.com/Edward-Hutapea/Daegu-Apartment
+- Supermarket Customers Data Dictionary https://github.com/Edward-Hutapea/Supermarket-Customers-Data-Dictionary
 
 🧠 **Core Skills**
 - Languages & Tools: Python, Tableau, MySQL, Machine Learning
