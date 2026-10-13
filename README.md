@@ -1,7 +1,7 @@
 👋 **About Me**
 - Full name: Edward Fajar Binsar Halomoan Hutapea
 - Email: edward.hutapea@gmail.com
-- Mobile: +6592290049
+- Phone: +6592290049
 - Linkedin: https://sg.linkedin.com/in/edward-fajar-hutapea-62b9bb75
 
 👋 **Profesional Summary**
