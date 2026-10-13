@@ -12,7 +12,8 @@
 🧠 **Technical Skills:** Python | MySQL | Tableau | Machine Learning.
 
 🚀 **Portfolio related to Data Analyst and Data Scientist**
-- Bank Marketing Campaign – Opening Deposit https://github.com/Edward-Hutapea/Bank-Marketing-Campaign-Opening-Deposit
+1. Bank Marketing Campaign – Opening Deposit https://github.com/Edward-Hutapea/Bank-Marketing-Campaign-Opening-Deposit
+“According to the dataset, only 11% of customers open a deposit. Banks often misidentify potential customers and those who are reluctant to open a deposit. This project builds a machine learning model to identify potential and reluctant deposit customers. It also provides personalized campaign recommendations based on historical data analysis.“
 - Daegu Apartment https://github.com/Edward-Hutapea/Daegu-Apartment
 - Supermarket Customers Data Dictionary https://github.com/Edward-Hutapea/Supermarket-Customers-Data-Dictionary
 
