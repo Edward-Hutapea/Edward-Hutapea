@@ -1,4 +1,10 @@
 👋 **About Me**
+Full name: Edward Fajar Binsar Halomoan Hutapea
+Email: edward.hutapea@gmail.com
+Mobile: +6592290049
+Linkedin: https://sg.linkedin.com/in/edward-fajar-hutapea-62b9bb75
+
+👋 **Profesional Summary**
 - Project Execution: Project Manager in Singapore with 12 years of experience directing 70-person cross-functional teams and external sub-contractors. Delivered high-profile soil investigation projects valued up to S$ 3 Million through data-driven project management.
 - Community Leadership: Executed end-to-end non-profit events (budgets up to S$15k) in Singapore for the Indonesian diaspora in partnership with the Indonesian Embassy, managing event committees and leading up to 50 multidisciplinary volunteers.
 - Data Analytics: Passionate about transforming complex datasets into strategic insights and actionable recommendations that drive measurable business impact.
