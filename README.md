@@ -9,8 +9,8 @@
 - Community Leadership: Executed end-to-end non-profit events (budgets up to S$15k) in Singapore for the Indonesian diaspora in partnership with the Indonesian Embassy, managing event committees and leading up to 50 multidisciplinary volunteers.
 - Data Analytics: Completed the bootcamp Data Science and Machine Learning. Passionate about transforming complex datasets into strategic insights and actionable recommendations that drive measurable business impact.
 
-🧠 **Core Skills**
-- Languages & Tools: Python, Tableau, MySQL, Machine Learning.
+🧠 **Technical Skills**
+- Python, Tableau, MySQL, Machine Learning.
 
 🚀 **Portfolio related to Data Analyst and Data Scientist**
 - Bank Marketing Campaign – Opening Deposit https://github.com/Edward-Hutapea/Bank-Marketing-Campaign-Opening-Deposit
