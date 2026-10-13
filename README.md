@@ -10,7 +10,7 @@
 - Data Analytics: Completed the bootcamp Data Science and Machine Learning. Passionate about transforming complex datasets into strategic insights and actionable recommendations that drive measurable business impact.
 
 🧠 **Technical Skills**
-- Python, Tableau, MySQL, Machine Learning.
+- Technical Skills: Python | MySQL | Tableau | Machine Learning.
 
 🚀 **Portfolio related to Data Analyst and Data Scientist**
 - Bank Marketing Campaign – Opening Deposit https://github.com/Edward-Hutapea/Bank-Marketing-Campaign-Opening-Deposit
