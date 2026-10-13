@@ -5,22 +5,18 @@
 - Linkedin: https://sg.linkedin.com/in/edward-fajar-hutapea-62b9bb75
 
 👋 **Profesional Summary**
-- Project Execution: Project Manager in Singapore with 12 years of experience directing 70-person cross-functional teams and external sub-contractors. Delivered high-profile soil investigation projects valued up to S$ 3 Million through data-driven project management.
-- Community Leadership: Executed end-to-end non-profit events (budgets up to S$15k) in Singapore for the Indonesian diaspora in partnership with the Indonesian Embassy, managing event committees and leading up to 50 multidisciplinary volunteers.
-- Data Analytics: Completed the bootcamp Data Science and Machine Learning. Passionate about transforming complex datasets into strategic insights and actionable recommendations that drive measurable business impact.
+- **Project Execution**: Project Manager in Singapore with 12 years of experience directing 70-person cross-functional teams and external sub-contractors. Delivered high-profile soil investigation projects valued up to S$ 3 Million through data-driven project management.
+- **Community Leadership**: Executed end-to-end non-profit events (budgets up to S$15k) in Singapore for the Indonesian diaspora in partnership with the Indonesian Embassy, managing event committees and leading up to 50 multidisciplinary volunteers.
+- **Data Analytics**: Completed the bootcamp Data Science and Machine Learning. Passionate about transforming complex datasets into strategic insights and actionable recommendations that drive measurable business impact.
 
 🧠 **Technical Skills:** Python | MySQL | Tableau | Machine Learning.
 
 🚀 **Portfolio related to Data Analyst and Data Scientist**
 1. *Bank Marketing Campaign – Opening Deposit* https://github.com/Edward-Hutapea/Bank-Marketing-Campaign-Opening-Deposit - According to the dataset, only 11% of customers open a deposit. Banks often misidentify potential customers and those who are reluctant to open a deposit. This project builds a machine learning model to identify potential and reluctant deposit customers. It also provides personalized campaign recommendations based on historical data analysis.
 
-2. *Daegu Apartment* https://github.com/Edward-Hutapea/Daegu-Apartment
+2. *Daegu Apartment* https://github.com/Edward-Hutapea/Daegu-Apartment - Apartment pricing is a vital factor. The owner's main problem is the inaccurate price prediction, resulting in overpricing and underpricing. If overpriced, the apartment becomes difficult to sell; if underpriced, it is challenging for the owner to maximize profit. This project builds a machine learning model to predict prices, thereby minimizing the occurrence of overpricing and underpricing.
 
-Apartment pricing is a vital factor. The owner's main problem is the inaccurate price prediction, resulting in overpricing and underpricing. If overpriced, the apartment becomes difficult to sell; if underpriced, it is challenging for the owner to maximize profit. This project builds a machine learning model to predict prices, thereby minimizing the occurrence of overpricing and underpricing.
-
-3. *Supermarket Customers Data Dictionary* https://github.com/Edward-Hutapea/Supermarket-Customers-Data-Dictionary
-
-The dataset shows a customer churn rate of 68% for the supermarket. This is caused by promotions that are poorly targeted and unattractive, as well as inaccurate predictions of customer transaction values. This project helps the supermarket identify 'Most Valuable Customers,' provide 'Personalized Promotion' recommendations, and build a machine learning model to predict customer transaction values.
+3. *Supermarket Customers Data Dictionary* https://github.com/Edward-Hutapea/Supermarket-Customers-Data-Dictionary - The dataset shows a customer churn rate of 68% for the supermarket. This is caused by promotions that are poorly targeted and unattractive, as well as inaccurate predictions of customer transaction values. This project helps the supermarket identify 'Most Valuable Customers,' provide 'Personalized Promotion' recommendations, and build a machine learning model to predict customer transaction values.
 
 🎓 **Certification**
 - Insinyur (Ir.) from Gadjah Mada University, Indonesia (2022-now)
